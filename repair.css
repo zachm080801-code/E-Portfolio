@@ -43,7 +43,7 @@ body{
 }
 
 #menu a:hover, #menu .current_page_item a {
-	background: #7D7764;
+	background: #003366;
 	text-decoration: none;
 	color: #FFFFFF;
 }
