@@ -162,7 +162,7 @@ a:hover {
 }
 
 #menu a:hover, #menu .current_page_item a {
-	background: NAVY;
+	background: #003366;
 	text-decoration: none;
 	color: #FFFFFF;
 }
