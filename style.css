@@ -6,7 +6,11 @@ Released for free under the Creative Commons Attribution License
 */
 
 body {
-	background-color: blue;
+	background-image: url("Background.jpeg");
+  	background-repeat: no-repeat;
+ 	background-position: center;
+  	background-attachment: fixed;
+  	background-size: cover;
 	margin: 0;
 	padding: 0;
 	font-family: 'Oxygen', sans-serif;
