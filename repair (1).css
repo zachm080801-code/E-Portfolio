@@ -1,0 +1,53 @@
+body{
+  background-image: url("repair.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#menu-wrapper {
+	overflow: hidden;
+	height: 52px;
+	margin-bottom: 2em;
+	background: #000000;
+}
+
+#menu {
+	overflow: hidden;
+	height: 52px;
+}
+
+#menu ul {
+	margin: 0;
+	padding: 0px 0px 0px 0px;
+	list-style: none;
+	line-height: normal;
+	text-align: center;
+}
+
+#menu li {
+	display: inline-block;
+}
+
+#menu a {
+	display: block;
+	padding: 0px 30px;
+	line-height: 52px;
+	border: none;
+	text-decoration: none;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+	color: #FFFFFF;
+}
+
+#menu a:hover, #menu .current_page_item a {
+	background: #7D7764;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+#menu .current_page_item a {
+}
+
