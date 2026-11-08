@@ -42,6 +42,7 @@ h3 {
 p, ul, ol {
 	margin-top: 0;
 	line-height: 180%;
+	font-color: black;
 }
 
 ul, ol {
