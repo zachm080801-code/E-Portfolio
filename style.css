@@ -8,6 +8,11 @@ Released for free under the Creative Commons Attribution License
 body {
 	margin: 0;
 	padding: 0;
+	background-image: url("Background.jpeg");
+  	background-repeat: no-repeat;
+  	background-position: center;
+  	background-attachment: fixed;
+  	background-size: cover;
 	font-family: 'Oxygen', sans-serif;
 	font-size: 13px;
 	color: black;
