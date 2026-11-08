@@ -58,7 +58,8 @@ a:hover {
 
 #wrapper {
 	overflow: hidden;
-	/*background: #F1F2E9;*/
+	background: #F1F2E9;
+	opacity:.1;
 }
 
 .container {
