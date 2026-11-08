@@ -11,7 +11,7 @@ body {
  	background-position: center;
   	background-attachment: fixed;
   	background-size: cover;
-	margin: 0;
+		margin: 0;
 	padding: 0;
 	font-family: 'Oxygen', sans-serif;
 	font-size: 13px;
@@ -23,7 +23,7 @@ h1, h2, h3 {
 	padding: 0;
 	text-transform: uppercase;
 	font-weight: 300;
-	color: #7D7764;
+	color: black;
 }
 
 h1 {
@@ -41,6 +41,7 @@ h3 {
 p, ul, ol {
 	margin-top: 0;
 	line-height: 180%;
+  color: black;
 }
 
 ul, ol {
@@ -56,7 +57,7 @@ a:hover {
 
 #wrapper {
 	overflow: hidden;
-	background: #F1F2E9;
+/*	background: #F1F2E9;*/
 }
 
 .container {
@@ -101,7 +102,7 @@ a:hover {
 	padding: 0px 0px 0px 5px;
 	font-size: 20px;
 	font-weight: 300;
-	color: #696969;
+	color: black;
 }
 
 #logo p a {
